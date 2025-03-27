@@ -18,3 +18,7 @@ D: contributor
 N: Thomas SANTANA
 G: santanathomas
 D: contributor
+
+N: Ange Maurel Serou
+G: angemau19
+D: contributor
